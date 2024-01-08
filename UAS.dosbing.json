@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "659b73c04d032a956041f222"
+  },
+  "id": 1,
+  "idmhs": 3444,
+  "iddosen": 100,
+  "namadosenl": "Putri"
+},
+{
+  "_id": {
+    "$oid": "659b73c04d032a956041f223"
+  },
+  "id": 2,
+  "idmhs": 3444,
+  "iddosen": 101,
+  "namadosenl": "Putra bangsa"
+},
+{
+  "_id": {
+    "$oid": "659b73c04d032a956041f224"
+  },
+  "id": 3,
+  "idmhs": 3445,
+  "iddosen": 101,
+  "namadosenl": "Putri"
+},
+{
+  "_id": {
+    "$oid": "659b73c04d032a956041f225"
+  },
+  "id": 4,
+  "idmhs": 3445,
+  "iddosen": 102,
+  "namadosenl": "Eva Laura"
+}]

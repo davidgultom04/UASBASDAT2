@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "659b78724d032a956041f22a"
+  },
+  "id": 1,
+  "iddosen": 100,
+  "nama": "Putri",
+  "Homebase": "Informatika"
+},
+{
+  "_id": {
+    "$oid": "659b78724d032a956041f22b"
+  },
+  "id": 2,
+  "iddosen": 101,
+  "nama": "Putri Bangsa",
+  "Homebase": "T. Industri"
+},
+{
+  "_id": {
+    "$oid": "659b78724d032a956041f22c"
+  },
+  "id": 3,
+  "iddosen": 102,
+  "nama": "Eva Laura",
+  "Homebase": "Sistem Informasi"
+},
+{
+  "_id": {
+    "$oid": "659b7ee34d032a956041f232"
+  },
+  "id": 4,
+  "iddosen": 103,
+  "nama": "Bron",
+  "Homebase": "Informatika"
+},
+{
+  "_id": {
+    "$oid": "659b7ee34d032a956041f233"
+  },
+  "id": 5,
+  "iddosen": 104,
+  "nama": "Udulna",
+  "Homebase": "T. Industri"
+},
+{
+  "_id": {
+    "$oid": "659b7ee34d032a956041f234"
+  },
+  "id": 6,
+  "iddosen": 105,
+  "nama": "Unyang Tapa",
+  "Homebase": "Sistem Informasi"
+},
+{
+  "_id": {
+    "$oid": "659b7ee34d032a956041f235"
+  },
+  "id": 7,
+  "iddosen": 106,
+  "nama": "Joule",
+  "Homebase": "T. Industri"
+},
+{
+  "_id": {
+    "$oid": "659b7ee34d032a956041f236"
+  },
+  "id": 8,
+  "iddosen": 107,
+  "nama": "Tuina",
+  "Homebase": "Sistem Informasi"
+}]
